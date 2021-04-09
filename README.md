@@ -17,6 +17,8 @@ The base version of Covey.Town lacks an invitation system that allows users to b
   - [Inviting Users:](#Inviting-Users )
   - [Accepting Invitations:](#Accepting-Invitations)
 
+## The town join pipeline 
+Todo
 
 ## Identifier of a user: username
 
