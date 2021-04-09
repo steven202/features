@@ -12,10 +12,10 @@ The base version of Covey.Town lacks an invitation system that allows users to b
 - [Features](#Features )
   - [Table of Contents](#table-of-contents )
   - [Feature Introduction](#Feature-Introduction )
-  - [Identifier of a user: username](#Identifier-of-a-user:-username )
-  - [Navigation Bar:](#Navigation-Bar:)
-  - [Inviting Users:](#Inviting-Users: )
-  - [Accepting Invitations:](#Accepting-Invitations: )
+  - [Identifier of a user: username](#identifier-of-a-user-username )
+  - [Navigation Bar:](#Navigation-Bar)
+  - [Inviting Users:](#Inviting-Users )
+  - [Accepting Invitations:](#Accepting-Invitations)
 
 
 ## Identifier of a user: username
