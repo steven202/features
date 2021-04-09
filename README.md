@@ -11,6 +11,7 @@ The base version of Covey.Town lacks an invitation system that allows users to b
   
 - [Features](#Features )
   - [Table of Contents](#table-of-contents )
+  - [The town join pipeline ](#The-town-join-pipeline  )
   - [Feature Introduction](#Feature-Introduction )
   - [Identifier of a user: username](#identifier-of-a-user-username )
   - [Navigation Bar:](#Navigation-Bar)
