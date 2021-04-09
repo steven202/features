@@ -12,6 +12,11 @@ Since the invitation system needs something to keep track of user identification
 
 ### The first page of the app:
 
-![first page](assets/Picture1.png)
+![](assets/Picture1.png)
+
+### The landing page when user use a invitation link to join:
+
+![](assets/Picture2.png)
+
 
 
