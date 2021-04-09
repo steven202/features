@@ -12,6 +12,10 @@ The base version of Covey.Town lacks an invitation system that allows users to b
 - [Features](#Features )
   - [Table of Contents](#table-of-contents )
   - [Feature Introduction](#Feature-Introduction )
+  - [Identifier of a user: username](#Identifier of a user: username )
+  - [Navigation Bar:](#Navigation Bar:)
+  - [Inviting Users:](#Inviting Users: )
+  - [Accepting Invitations:](#Accepting Invitations: )
 
 
 ## Identifier of a user: username
@@ -37,9 +41,44 @@ Once the user logged in with a username, he/she will see a navigation bar at the
 ### Navigation Bar:
 ![](assets/Picture3.png)
 
-Inviting Users:
+## Inviting Users:
+
 After a user joins a town, he/she will see an invite button at the bottom right of the app page:
 ![](assets/Picture4.png)
+
+Clicking the button will make an invitation window prompt out as following:
+![](assets/Picture5.png)
+
+1.	Invite IN-SYSTEM Users:
+IN-SYSTEM users are considered as those who have already created their usernames. On this window, a user can view all IN-SYSTEM users. He/she can invite by simply clicking the invite button next to a user.
+
+### To invite IN-SYSTEM user:
+![](assets/Picture6.png)
+
+2.	Invite OUT-SYSTEM
+OUT-SYSTEM users are considered as those who have not created their usernames yet. Again, on this window, a user can copy the invitation link and send it to others via social media.
+
+### To invite OUT-SYSTEM user:
+![](assets/Picture7.png)
+
+![](assets/Picture8.png)
+
+## Accepting Invitations:
+1.	Join as IN-SYSTEM User:
+As stated above, IN-SYSTEM users are able to view all invitations from the Town Invitation dropdown menu.
+
+He/She can take actions by simply clicking the accept or deny button.
+![](assets/Picture9.png)
+
+2.	Join as OUT-SYSTEM User:
+Once received an invitation link, an OUT-SYSTEM user can copy the link and paste it into a browser. This link will navigate him/her to a page asking for a username to enter, displaying the town name that the user is currently joining, as stated above. After creating the username, the user will directly get into the town.
+
+
+
+
+
+
+
 
 
 
