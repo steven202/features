@@ -72,6 +72,7 @@ OUT-SYSTEM users are considered as those who have not created their usernames ye
 As stated above, IN-SYSTEM users are able to view all invitations from the Town Invitation dropdown menu.
 
 He/She can take actions by simply clicking the accept or deny button.
+
 ![](assets/Picture9.png)
 
 2.	Join as OUT-SYSTEM User:
