@@ -46,9 +46,11 @@ Once the user logged in with a username, he/she will see a navigation bar at the
 ## Inviting Users:
 
 After a user joins a town, he/she will see an invite button at the bottom right of the app page:
+
 ![](assets/Picture4.png)
 
 Clicking the button will make an invitation window prompt out as following:
+
 ![](assets/Picture5.png)
 
 1.	Invite IN-SYSTEM Users:
